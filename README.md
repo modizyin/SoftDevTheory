@@ -16,4 +16,5 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 9. **March Comes in Like a Lion**
 10. **Clannad**
 11. **Bungou Stray Dogs**
-12. **Mob Psycho 100** - peak animation and pure wholesome energy !
+12. **Mashle: Magic and Muscles**
+13. **Mob Psycho 100** - peak animation and pure wholesome energy !
